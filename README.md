@@ -24,10 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design Rerquirement]("images/image-header-desktop.jpg")
-![Mobile Design Rerquirement]("images/image-header-mobile.jpg")
-![My desktop version]("design/exercise-1.png")
-![My mobile version]("design/exercise-1-m.png")
+![Desktop Design Rerquirement](images/image-header-desktop.jpg)
+![Mobile Design Rerquirement](images/image-header-mobile.jpg)
+![My desktop version](design/exercise-1.png)
+![My mobile version](design/exercise-1-m.png)
 
 ### Links
 
