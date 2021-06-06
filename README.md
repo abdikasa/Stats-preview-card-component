@@ -32,7 +32,7 @@ Users should be able to:
 #### My Desktop and Mobile Design
 
 ![My desktop version](design/exercise-1.png)
-![My mobile version](design/exercise-1-m.png)
+![My mobile version](design/exercise-1-mobile.png)
 
 ### Links
 
