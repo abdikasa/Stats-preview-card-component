@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design Rerquirement](images/image-header-desktop.jpg)
-![Mobile Design Rerquirement](images/image-header-mobile.jpg)
+![Desktop Design Rerquirement](design/desktop-design.jpg)
+![Mobile Design Rerquirement](design/mobile-design.jpg)
 ![My desktop version](design/exercise-1.png)
 ![My mobile version](design/exercise-1-m.png)
 
